@@ -14,3 +14,5 @@ This is a Python Script to Block certain links/websites during some duration, Af
 2. Linux or Mac Os=> Change Host path to "etc\hosts"
 ```
 **Add Link of Websites you want to block in website_list, I have initally added Facebook here!**
+
+
