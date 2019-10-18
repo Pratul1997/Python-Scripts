@@ -9,6 +9,7 @@ We provide three facilities :
 ```
 ## 2) WebSite Blocker
 This is a Python Script to Block certain links/websites during some duration, After that time interval, you can easily access those links which you have blocked for that interval.
+
 ```
 1. Windows=> Same host_path 
 2. Linux or Mac Os=> Change Host path to "etc\hosts"
